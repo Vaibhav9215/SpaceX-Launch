@@ -31,11 +31,11 @@ The application is deployed on **Heroku**, and **Travis** is used for CI. It is 
 
 **Using Lighthouse in Chrome DevTools**
 
-![lighthouse score]()
+![lighthouse score](https://imgur.com/a/r7ya3jK)
 
 **Using [web.dev](https://web.dev/measure)**
 
-![lighthouse score]()
+![lighthouse score](https://imgur.com/a/wTDapH9)
 
 [web.dev report]()
 
